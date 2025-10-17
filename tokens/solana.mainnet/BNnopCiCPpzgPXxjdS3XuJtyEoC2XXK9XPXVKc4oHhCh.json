@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "BNnopCiCPpzgPXxjdS3XuJtyEoC2XXK9XPXVKc4oHhCh",
+  "symbol": "$RFX",
+  "name": "ReflexCoin",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/NRUIVO67/nelsonruivo-token-list/main/assets/BNnopCiCPpzgPXxjdS3XuJtyEoC2XXK9XPXVKc4oHhCh/logo.png",
+  "tags": ["community", "meme", "utility"],
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "description": "ReflexCoin ($RFX) é um token criado na rede Solana, focado em inovação, comunidade e utilidade real no ecossistema Web3."
+  }
+}
