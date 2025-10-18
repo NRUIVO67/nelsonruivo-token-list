@@ -1,0 +1,16 @@
+{
+  "name": "Nelson Ruivo Token List",
+  "logoURI": "https://raw.githubusercontent.com/NRUIVO67/nelsonruivo-token-list/main/assets/logo.png",
+  "tags": {},
+  "timestamp": "2025-10-18T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "BNnopCiCPpzgPXxjdS3XuJtyEoC2XXK9XPXVKc4oHhCh",
+      "symbol": "RFX",
+      "name": "ReflexCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/NRUIVO67/nelsonruivo-token-list/main/assets/logo.png"
+    }
+  ]
+}
