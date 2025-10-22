@@ -1,0 +1,13 @@
+{
+  "name": "ReflexCoin",
+  "symbol": "RFX",
+  "description": "ReflexCoin — Emotional Mining & AI Power. A community-driven Solana token that blends human emotion with artificial intelligence to redefine digital value.",
+  "image": "https://raw.githubusercontent.com/NRUIVO67/nelsonruivo-token-list/main/assets/BNnopCiCPpzgPXxjdS3XuJtyEoC2XXK9XPXVKc4oHhCh/logo.png",
+  "extensions": {
+    "website": "https://reflexcoin.ai",
+    "twitter": "https://twitter.com/reflexcoin",
+    "telegram": "https://t.me/reflexcoin",
+    "github": "https://github.com/NRUIVO67/nelsonruivo-token-list"
+  },
+  "tags": ["AI", "emotional-mining", "community", "Solana"]
+}
