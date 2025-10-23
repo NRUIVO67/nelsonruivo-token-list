@@ -1,0 +1,26 @@
+{
+  "name": "ReflexCoin",
+  "symbol": "RFX",
+  "description": "O token oficial ReflexCoin na rede Solana.",
+  "image": "https://raw.githubusercontent.com/NRUIVO67/nelsonruivo-token-list/main/assets/BNnopCiCPpzgPXxjdS3XuJtyEoC2XXK9XPXVKc4oHhCh/logotipo.png",
+  "external_url": "https://github.com/NRUIVO67/nelsonruivo-token-list",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "ReflexCoin"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/NRUIVO67/nelsonruivo-token-list/main/assets/BNnopCiCPpzgPXxjdS3XuJtyEoC2XXK9XPXVKc4oHhCh/logotipo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
